@@ -1,0 +1,66 @@
+      create
+
+      {
+      "plost_id":"1",
+      "pname":"นาย",
+      "fname":"กิติพงษ์",
+      "lname":"อินทร์พิลา",
+      "gender":"M",
+      "age":"28",
+      "place":"บริเวณถนนลาดกระบัง",
+      "subdistrict":"ลาดกระบั",
+      "district":"ลาดกระบัง",
+      "city":"กรุงเทพมหานคร",
+      "height":"160",
+      "weight":"80",
+      "shape" :"1",
+      "hairtype":"1",
+      "haircolor":"1",
+      "skintone":"5",
+      "upperwaist":"1",
+      "uppercolor":"w",
+      "lowerwaist":"2",
+      "lowercolor":"s",
+      "detail_etc":"รอยแผลเป็นบริเวณแขนข้างซ้อง",
+      "special":"-",
+      "type_id":"1",
+      "guest_id":"2",
+      "status":"0",
+      "reg_date":"2019-02-11 19:03:35"
+      }
+
+      delete
+      {
+      plost_id:"2"
+      }
+
+      search
+
+      {
+              "fname": "ศักดิ์ชัย ",
+              "lname": "นามบุตร",
+              "gender": "M",
+              "city": "สมุทรปราการ",
+              "height": "160",
+              "shape": "1",
+              "hairtype": "3",
+              "haircolor": "1",
+              "skintone": "4",
+              "type_id": "6",
+              "status": "0"
+          }
+
+          {
+                        "fname": "ธนโชติ",
+                        "lname": "บุญ",
+                        "gender": "M",
+                        "city": "นครสวรรค์",
+                        "height": "0",
+                        "shape": "0",
+                        "hairtype": "0",
+                        "haircolor": "0",
+                        "skintone": "0",
+                        "type_id": "0",
+                        "status": "0",
+                        "detail_etc" : ""
+          }
